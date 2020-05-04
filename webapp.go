@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"starbob.com/go/test/morestrings"
+	"code-initiatives/go/webapp/morestrings"
 )
 
 type Page struct {

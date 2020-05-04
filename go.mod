@@ -1,3 +1,3 @@
-module starbob.com/go/webapp
+module code-initiatives/go/webapp
 
 go 1.14
