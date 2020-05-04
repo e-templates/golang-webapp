@@ -1,3 +1,3 @@
-module starbob.com/go/firstapp
+module starbob.com/go/webapp
 
 go 1.14
